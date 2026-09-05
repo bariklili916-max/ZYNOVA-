@@ -1,0 +1,6 @@
+{
+  "name": "ZYNOVA",
+  "description": "Educational Science Project App for students from Class 1 to Class 10 with step-by-step guides, working principles, viva Q&A, and offline access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
